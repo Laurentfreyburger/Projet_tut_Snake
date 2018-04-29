@@ -9,6 +9,9 @@ public class Fruit extends ElementGrille {
     int posY = 0;
     Color couleurFruit[] = { Color.LIGHTYELLOW, Color.LIGHTCYAN, Color.LIGHTSEAGREEN};
 
+
+
+
     //ex génération de fruit : posX = Maths.random * longueurTableauDeJeu
     //                         posY = Maths.random * longueurTableauDeJeu
 
